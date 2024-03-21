@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.subheader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: cornflowerblue;
+    height: 40px;
+}
+.subheader a{
+    text-decoration: none;
+    width: 20%;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+.subheader a:hover{
+    background-color: lightblue;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Text{
+    width: 500px;
+    font-family: "Apple Symbols";
+    font-size: large;
+    text-align: center;
+}
