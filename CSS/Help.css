@@ -1,0 +1,18 @@
+.Help {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.Help img {
+    max-width: 100%;
+    text-align: center;
+    flex-basis: 100%;
+    margin-top: 60px;
+}
+
+.Help h4 {
+    width: 80%;
+    margin-top: 70px;
+}

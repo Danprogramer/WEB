@@ -1,0 +1,15 @@
+.Map-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+#map-image{
+    width: 300px;
+    height: 300px;
+}
+.stickman-image{
+    width: 50px;
+    height: 100px;
+}
